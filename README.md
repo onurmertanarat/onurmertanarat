@@ -1,6 +1,3 @@
-<h1 align="center">Hey, I am Mert</h1>
-<h3 align="center">Software Developer from Turkey</h3>
-
 - 📫 How to reach me **anaratonurmert@yandex.com**
 
 - 📄 Know about my experiences [https://mertanarat.com/](https://mertanarat.com/)
