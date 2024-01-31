@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mert</h1>
-<h3 align="center">29 years old, Software Developer from Turkey</h3>
+<h3 align="center">29 years old | Software Developer from Turkey</h3>
 
 - 📫 How to reach me **anaratonurmert@yandex.com**
 
