@@ -34,7 +34,6 @@ cloud solutions such as Docker to stay current with industry advancements.</p>
 
 ### 📫 Contact
   - Email     : <anaratonurmert@yandex.com>
-  - Website   : <https://mertanarat.com>
 
 ### ⚡ Tech Stack
 <div align="left">
