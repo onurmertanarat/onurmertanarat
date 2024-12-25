@@ -8,7 +8,14 @@ Currently, I am advancing my skills in C# through further training. I also aim t
 cloud solutions such as Docker to stay current with industry advancements.</p>
 
 ### 🌐 Socials
-<p align="left">  
+<p align="left">   
+  <a href="https://stackoverflow.com/users/22386698/onur-mert-anarat" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+    </picture>
+  </a>
   <a href="https://medium.com/@onurmertanarat" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
