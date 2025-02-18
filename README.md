@@ -4,7 +4,7 @@
 🌍 Currently leveling up in C# and Node.js while experimenting with cloud technologies like Docker.  
 
 ## Socials
-<p align="left"> 
+<div align="left">
   <a href="https://www.linkedin.com/in/onurmertanarat" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
@@ -30,15 +30,8 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
     </picture> 
-  </a>  &nbsp;
-  <a href="https://www.youtube.com/@onurmertanarat" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> 
-    </picture> 
-  </a>  
-</p>
+  </a>
+</div>
 
 ## Tech Stack
 <div align="left">
