@@ -1,7 +1,7 @@
 ## About Me
-💻 Started coding in high school with C++ and VB.NET, scripting for games.  
-⚡ Explored C#, Python, and Linux, diving into system automation and backend development.  
-🌍 Currently focusing on C# and Node.js, while experimenting with Docker and cloud technologies.  
+💻 Started coding in high school with **C++ and VB.NET**, scripting for games.  
+⚡ Explored **C#, Python and Linux**, diving into system automation and backend development.  
+🌍 Currently focusing on **C# and Node.js**, while experimenting with **Docker and cloud technologies**.  
 
 ## Socials
 <div align="left">
