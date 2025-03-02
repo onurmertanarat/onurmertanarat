@@ -23,13 +23,6 @@
     <picture> 
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/hackerrank.svg" width="32" height="32" alt="HackerRank" />
     </picture> 
-  </a>  &nbsp;
-  <a href="https://discord.com/users/1279891307342463058" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
-    </picture> 
   </a>
 </div>
 
