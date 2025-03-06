@@ -1,7 +1,7 @@
 # About Me
-✔ Started coding in high school with C++ and VB.NET, scripting for games.<br />
-✔ Explored C#, Python and Linux, diving into system automation and backend development.<br />
-✔ Currently focusing on C# and Node.js, while experimenting with Docker and cloud technologies.<br />
+* Started coding in high school with C++ and VB.NET, scripting for games. <br />
+* Explored C#, Python and Linux, diving into system automation and backend development. <br />
+* Currently focusing on C# and Node.js, while experimenting with Docker and cloud technologies.
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurmertanarat)  &nbsp;
