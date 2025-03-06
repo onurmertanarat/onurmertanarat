@@ -1,7 +1,5 @@
 # About Me
-* Started coding in high school with C++ and VB.NET, scripting for games. <br />
-* Explored C#, Python and Linux, diving into system automation and backend development. <br />
-* Currently focusing on C# and Node.js, while experimenting with Docker and cloud technologies.
+Hi! I'm Onur Mert Anarat, a software developer with a background in mechatronics engineering. I specialize in backend development using Python, C#, and Node.js, with experience in Django, ASP.NET Core, and Linux system administration. I’m passionate about DevOps, automation, and cloud technologies like Docker and CI/CD. My projects range from web applications to image processing and optimization systems. I love learning new technologies and improving my skills.
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurmertanarat)  &nbsp;
